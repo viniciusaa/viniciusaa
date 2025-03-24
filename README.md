@@ -1,5 +1,5 @@
-<h4>🌿Hi, I'm Vinicius</h4>
-<h5>I'm a Software Engineer specializing in front-end development.<br/>Coding with purpose, solving challenges, and always improving.</h5>
+<h3>🌿Hi, I'm Vinicius</h3>
+<h4>I'm a Software Engineer specializing in front-end development.<br/>Coding with purpose, solving challenges, and always improving.</h4>
 
 <hr></hr>
 <div>  
