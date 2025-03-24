@@ -15,7 +15,6 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
 </div>
 <hr></hr>
-<p align="left">
-<a href="https://www.linkedin.com/in/vinicius-araujo-aquino/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-araujo-aquino/" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/vinicius-araujo-aquino/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-araujo-aquino/" height="30" width="40" /></a>
+
 
