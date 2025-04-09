@@ -5,6 +5,7 @@
   <li>Strong background in the React Ecosystem: React.js, Next.js, Redux.js, TypeScript, Semantic UI and Material UI.</li>
   <li>Familiar with backend technologies: Ruby on Rails, Node.js, Express.js, Nest.js, MySQL, and MongoDB.</li>
   <li>Experienced using Tanstack Query/React Query, React-hook-form, Zustand and Docker.</li>
+  <li>Experienced in using GitHub and Azure Repos for source control and code management.</li>
   <li>Proficient in utilizing AI-assisted development tools like ChatGPT, GitHub Copilot, and Cursor to boost code quality and efficiency.</li>
 </ul>
 <hr></hr>
