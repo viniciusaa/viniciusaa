@@ -1,6 +1,12 @@
 <h3>🌿Hi, I'm Vinicius</h3>
 <h4>I'm a Software Engineer specializing in front-end development.<br/>Coding with purpose, solving challenges, and always improving.</h4>
-
+<hr></hr>
+<ul>
+  <li>Strong background in the React Ecosystem: React.js, Next.js, Redux.js, TypeScript, Semantic UI and Material UI.</li>
+  <li>Familiar with backend technologies: Ruby on Rails, Node.js, Express.js, Nest.js, MySQL, and MongoDB.</li>
+  <li>Experienced using Tanstack Query/React Query, React-hook-form, Zustand and Docker.</li>
+  <li>Proficient in utilizing AI-assisted development tools like ChatGPT, GitHub Copilot, and Cursor to boost code quality and efficiency.</li>
+</ul>
 <hr></hr>
 <div>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
